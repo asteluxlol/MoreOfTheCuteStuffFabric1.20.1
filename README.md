@@ -1,2 +1,3 @@
-Any Content in this repository is licensed under CC BY-NC-ND 4.0
-Please DO NOT remix any content in this repository, if you redistribute any content created by Cinnaminin remember to give the original link to the content. Any remixes or modified redistributions without permission is not allowed.
+This project has been moved to a new account/location!
+The new project is at: https://github.com/Cinnaminin/MoreOfTheCuteStuff
+Sorry for the inconvenience.
